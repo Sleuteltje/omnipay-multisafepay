@@ -1,5 +1,5 @@
 {
-    "name": "omnipay/multisafepay",
+    "name": "sleuteltje/omnipay-multisafepay",
     "type": "library",
     "description": "MultiSafepay driver for the Omnipay payment processing library",
     "keywords": [
@@ -11,7 +11,7 @@
         "pay",
         "payment"
     ],
-    "homepage": "https://github.com/thephpleague/omnipay-multisafepay",
+    "homepage": "https://github.com/Sleuteltje/omnipay-multisafepay",
     "license": "MIT",
     "authors": [
         {
@@ -21,6 +21,10 @@
         {
             "name": "Omnipay Contributors",
             "homepage": "https://github.com/thephpleague/omnipay-multisafepay/contributors"
+        },
+        {
+            "name": "Michael Roffel",
+            "email": "michael.roffel@wefabric.nl"
         }
     ],
     "autoload": {
