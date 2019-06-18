@@ -50,7 +50,7 @@ you can subscribe to.
 If you believe you have found a bug, please report it using the [GitHub issue tracker](https://github.com/thephpleague/omnipay-multisafepay/issues),
 or better yet, fork the library and submit a pull request.
 
-##Alterations
+## Alterations
 
 The file src/Message/AbstractResponse.php & src/Message/RestPurchaseRequest.php are altered to make it possible to send all files the payment method "Afterpay" requires.
 
